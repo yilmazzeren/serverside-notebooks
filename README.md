@@ -28,3 +28,5 @@ Yeni bir **note** eklenmek istenildiğinde **http://localhost:5000/api/notebooks
 
 Halihazırda bulunan dosyalar **liste** şeklinde sayfanın sol tarafına yerleştirilmiştir.
 Liste içeriklerini görmek ve güncellemek için, sayfanın sağ tarafında **textarea** eklenmiştir.
+
+![proje](https://user-images.githubusercontent.com/56710444/106760796-369d7f00-6645-11eb-97bb-dcac4bc9bf51.png)
